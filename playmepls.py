@@ -1,6 +1,6 @@
 
 '''
-Main method starts by greeting the player. Then proceeds to initiate the game using a while loop and multiple if conditions.
+The main method simply begins by greeting the player. Then proceeds to start the game via a while loop and multiple if conditions.
 The if conditions check if X or O wins the game by checking the alignment of the letters according to a preset algorithm.
 
 '''
